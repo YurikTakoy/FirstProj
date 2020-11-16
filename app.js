@@ -1,6 +1,4 @@
-alert("Подтверждай действие сук");
-
-var a = "Honda Civic Ferio";
+let a = "Honda Civic Ferio";
 console.log(a);
 
 console.log({
