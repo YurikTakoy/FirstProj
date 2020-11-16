@@ -7,3 +7,5 @@ console.log({
   horsepower: "130",
   mode: "VTEC",
 });
+
+let mass = [1,2,3,4];
